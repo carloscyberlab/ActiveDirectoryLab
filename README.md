@@ -3,47 +3,61 @@
  ### [YouTube Demonstration](https://youtu.be/s2waY7NLKH8)
 
 <h2>Description</h2>
-This video consists of setting up a basic home lab running active directory using Oracle Virtual Box. As well as using PowerShell to add users. 
+In this lab project, I set up a virtual environment to simulate a real-world office environment. The project demonstrates my knowledge of Active Directory and user management, along with my skills in installing virtual machines and operating systems.
+
+The lab involved creating a secure virtual environment that mimics an office environment with Active Directory functionality. I installed a virtual machine and configured its settings to create an operating system. Afterward, I installed and configured Active Directory, a Microsoft technology used for managing computers and users in a networked environment.
+
+Using PowerShell, I added and managed user accounts to demonstrate my proficiency in automation and configuration management in Windows environments.
+
+Overall, this lab project showcases my technical abilities in setting up virtual environments, configuring operating systems, and managing users with Active Directory.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-
+- <b>Command Prompt</b>
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
 - <b>VirtualBox</b> (21H2)
-<h2>Program walk-through:</h2>
+
+<h2>Lab Walk Through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Virtual Box: <br/>
+<img src="https://imgur.com/KAGufkx.png" height="80%" width="80%" alt="Virtual Box Config"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Server Install: <br/>
+<img src="https://imgur.com/cvdkZ67.jpg" height="80%" width="80%" alt="Server Install"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+IP Assignment: <br/>
+<img src="https://imgur.com/XOKR3oA.jpg" height="80%" width="80%" alt="IP"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Installation:  <br/>
+<img src="https://imgur.com/Kj0b2Bv.jpg" height="80%" width="80%" alt="AD Install"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP Set Up:  <br/>
+<img src="https://imgur.com/Opfb1oV.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PowerShell Script:  <br/>
+<img src="https://imgur.com/OiLButk.jpg" height="80%" width="80%" alt="PowerShell"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Windows 10 Installation:  <br/>
+<img src="https://imgur.com/Wgqbhrw.jpg" height="80%" width="80%" alt="Windows 10"/>
+<br/>
+ IP Config:  <br/>
+<img src="https://imgur.com/pMlIecm.jpg" height="80%" width="80%" alt="PowerShell"/>
+<br />
+Ping Test:  <br/>
+<img src="https://imgur.com/NV9Ejy3.jpg" height="80%" width="80%" alt="PowerShell"/>
+<br />
 </p>
 
 <!--
